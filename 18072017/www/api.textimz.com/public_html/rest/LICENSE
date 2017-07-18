@@ -1,0 +1,67 @@
+restify(db() - expose your databases as REST web services in minutes
+Copyright (c) 2015, Daniel CHIRITA
+All rights reserved.
+me@restifydb.com
+https://restifydb.com/#license
+
+
+Commercial License
+------------------------------------------------------------------------------------------
+This is the appropriate option if you are creating proprietary applications and you are
+not prepared to distribute and share the source code of your application under the
+GPL v3 license. Please visit https://restifydb.com/#license for more details.
+
+
+Open Source Licensing
+------------------------------------------------------------------------------------------
+http://www.gnu.org/licenses/gpl.html
+
+
+Third Party Content
+------------------------------------------------------------------------------------------
+The following third party software is distributed with restifydb and is
+provided under other licenses and/or has source available from other locations.
+
+Library: Zend Framework
+License: New BSD
+Location: http://framework.zend.com/
+
+Library: Savant3
+License: LGPL
+Location: http://phpsavant.com/
+
+Library: Accept-Header-Parser
+License: LGPL
+Location: https://github.com/adoy/Accept-Header-Parser
+
+Library: Bootstrap
+License: MIT
+Location: http://getbootstrap.com/
+
+Library: Font Awesome
+License: MIT
+Location: http://fortawesome.github.io/Font-Awesome/
+
+Library: html5shiv
+License: MIT
+Location: https://github.com/aFarkas/html5shiv
+
+Library: respond.js
+License: MIT
+Location: https://github.com/scottjehl/Respond
+
+Library: jQuery
+License: MIT
+Location: http://jquery.com/
+
+Library: AngularJS
+License: MIT
+Location: https://angularjs.org/
+
+--
+
+THIS SOFTWARE IS DISTRIBUTED "AS-IS" WITHOUT ANY WARRANTIES, CONDITIONS AND
+REPRESENTATIONS WHETHER EXPRESS OR IMPLIED, INCLUDING WITHOUT LIMITATION THE
+IMPLIED WARRANTIES AND CONDITIONS OF MERCHANTABILITY, MERCHANTABLE QUALITY,
+FITNESS FOR A PARTICULAR PURPOSE, DURABILITY, NON-INFRINGEMENT, PERFORMANCE
+AND THOSE ARISING BY STATUTE OR FROM CUSTOM OR USAGE OF TRADE OR COURSE OF DEALING.
