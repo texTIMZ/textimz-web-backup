@@ -1,0 +1,16 @@
+.head
+{
+	height: 50px;
+	box-shadow: 0px 0px 10px black;
+}
+.logo_tex
+{
+    width: 150px;
+    height: 40px;
+    display: inline-block;
+    background-image: url('../assets/textimz.png');
+    background-repeat: no-repeat;
+    background-size: 150px;
+    cursor: pointer;
+    margin-top: 10px;
+}

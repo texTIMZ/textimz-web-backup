@@ -1,0 +1,15 @@
+/**
+ * Form style
+ */
+.sbscrbr-form-error {
+	color: #EA4417;
+}
+.sbscrbr-form-done {
+	color: #3B9E2A;
+}
+.login-action-register .sbscrbr-cb {
+	margin: 0 0 10px;
+}
+.sbscrbr-name-wrap {
+	margin-bottom: 5px;
+}

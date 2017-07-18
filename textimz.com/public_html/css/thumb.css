@@ -1,0 +1,54 @@
+body {
+    background-color: white;
+}
+.thumb {
+        position: relative;
+    /* background-color: red; */
+    display: inline-block;
+    background: rgb(245, 245, 245);
+    border-radius: 2px;
+    height: 230px;
+    width: 210px;
+    /* left: 0px; */
+    cursor: pointer;
+    margin-left: 24px;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
+    transition: all 0.3s cubic-bezier(.25, .8, .25, 1);
+    background: linear-gradient(to top, transparent 0, rgba(0,0,0,.55));
+}
+
+.thumb:hover {
+    box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
+}
+.thumb-img {
+    height: 75%;
+    width: 100%;
+    
+}
+.thumb-head {
+    margin-left: 5px;
+    margin-top: 5px;
+    position: relative;
+    color: black;
+    font-family: roboto;
+    font-size: 15px;
+    bottom: 0px;
+    height: 24%;
+    letter-spacing: 0.5px;
+    text-align: left;
+}
+.thumb-date {
+    background-color: rgba(47, 155, 186, 0.54);
+    ;
+    font-size: 15px;
+    position: absolute;
+    overflow: hidden;
+    color: white;
+    right: 0px;
+    width: 75px;
+    top: 10px;
+    padding-top: 3px;
+    height: 23px;
+    text-align: center;
+    font-family: roboto;
+}

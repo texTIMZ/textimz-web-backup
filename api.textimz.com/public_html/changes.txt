@@ -1,0 +1,10 @@
+Rearrangement of thumbs.
+
+list restructuring.
+
+Files Changed :
+index.php
+thumb.css
+welcome.css
+index_.css
+list_card.css

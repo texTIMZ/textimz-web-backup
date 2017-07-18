@@ -1,0 +1,92 @@
+body {
+  background: #e2e1e0;
+  text-align: center;
+  font-family: roboto;
+  overflow: hidden;
+}
+.lcard {
+    background: rgb(245, 245, 245);
+    border-radius: 2px;
+    display: inline-block;
+    color: black;
+    height: 70px;
+    width:93%;
+    margin-top: 0px;
+    box-shadow: 0 1px 1px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+    transition: all 0.3s cubic-bezier(.25,.8,.25,1);
+    position: relative;
+}
+@media only screen and (max-width: 480px){
+  .lcard{
+    width: 98%;
+  }
+      .lcard_title{
+        font-size: 18px;
+            width: 65%;
+    }
+}
+
+
+.lcard:hover {
+  box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+}
+.lcard_image {
+    
+    width: 90px;
+    height: 70px;
+    margin-left: 0px;
+    position: absolute;
+}
+.limge{
+    width: 90px;
+    height: 70px;
+}
+.lcard_title {
+    text-align: left;
+    font-size: 14px;
+    position: absolute;
+    left: 102px;
+    margin-top: 6px;
+    width: 67.5%;
+    height: 54px;
+    /* padding: 0 0px; */
+    font-weight: 500;
+    /* white-space: pre-wrap; */
+    overflow: hidden;
+    transition: all 200ms cubic-bezier(0.075, 0.820, 0.165, 1.000);
+  }
+.lcard_date
+{
+    background-color: #2e829b;
+    font-size: 12px;
+    position: absolute;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    color: #ffffff;
+    right: 0px;
+    width: 68px;
+    top: 54px;
+    height: 16px;
+    color: 727272;
+    padding-top: 2px;
+    text-align: center;
+}
+
+/*.lauth_details
+{
+    text-align: left;
+    font-size: 12px;
+    margin-top: 99px;
+    position: absolute;
+    left: 104px;
+    width: 457px;
+    height: 16px;
+    right: 0;
+    padding: 0px 16px;
+    font-weight: 400;
+    overflow: hidden;
+    transition: all 200ms cubic-bezier(0.075, 0.820, 0.165, 1.000);
+}*/
+a 
+{ text-decoration: none; 
+outline: none;}

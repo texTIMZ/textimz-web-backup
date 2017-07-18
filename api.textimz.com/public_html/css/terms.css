@@ -1,0 +1,13 @@
+
+.terms-container
+{
+    width: 100%;
+    left: 0px;
+    top:70px;
+    height: 82.8%;
+    position: absolute;
+    overflow: auto;
+background-color: #525659;
+        background-repeat: no-repeat;
+        background-size: 100%;
+}
